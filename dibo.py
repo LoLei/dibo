@@ -1,3 +1,7 @@
+"""
+Wow, creating a Discord bot using discord.py is *much* simpler than making an
+IRC bot from scratch. Just wanted to do some tests here.
+"""
 import os
 from discord.ext.commands import Bot
 
